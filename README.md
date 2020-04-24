@@ -1,2 +1,6 @@
 # PythonMLAI
-Contains all Python, ML and AI projects
+
+Developer - Lelin Acharya
+
+Contains all Python, ML and AI projects!!
+
